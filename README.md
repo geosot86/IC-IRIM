@@ -1,2 +1,2 @@
 # IC-IRIM
-# Codes developed from the study of secondary ice processes
+# Codes developed for the study of secondary ice processes
